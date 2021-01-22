@@ -1,1 +1,1 @@
-# obsidian-publish-vue
+# Obsidian Publish Vue
